@@ -1,3 +1,5 @@
 First test file original content.
 
 New row.
+
+New row added locally by Git bash.
