@@ -1,4 +1,4 @@
 git-homework1
 =============
 
-Source repository
+Source repository which will be cloned.
